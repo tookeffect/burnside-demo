@@ -1,0 +1,13 @@
+{
+  "target_id": "verified-target-demo",
+  "owner": "example-org",
+  "repo": "disposable-test-repo",
+  "pull_number": 1,
+  "expected_head_sha": "1111111111111111111111111111111111111111",
+  "expected_base": "main",
+  "require_successful_checks": true,
+  "external_context": {
+    "pipeline_run_id": "factory-floor-run-demo",
+    "evidence_bundle_id": "factory-floor-evidence-demo"
+  }
+}
