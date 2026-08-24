@@ -1,0 +1,19 @@
+{
+  "effect_id": "effect-demo-001",
+  "verdict": "APPLIED",
+  "evidence": {
+    "expected": {
+      "head_sha": "1111111111111111111111111111111111111111",
+      "base": "main"
+    },
+    "observed": {
+      "merged": true,
+      "head_sha": "1111111111111111111111111111111111111111",
+      "merge_commit_sha": "2222222222222222222222222222222222222222"
+    }
+  },
+  "receipt": {
+    "evidence_digest": "demo-digest-not-a-production-value",
+    "signature": "demo-signature-not-a-production-value"
+  }
+}
