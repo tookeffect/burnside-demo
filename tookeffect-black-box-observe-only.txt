@@ -1,0 +1,3 @@
+TookEffect internal black-box observe-only validation fixture.
+
+This file is intentionally harmless and exists only so an unmerged pull request can be observed by TookEffect without mutating provider state.
